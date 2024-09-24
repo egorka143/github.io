@@ -1,0 +1,8 @@
+
+#idP{
+    background-color: blueviolet;
+}
+#idP.alert{
+    background-color: rgb(51, 255, 0);
+    height: 648px;
+}
